@@ -2,7 +2,7 @@
 
 namespace Laravel\Passport;
 
-use Illuminate\Database\Eloquent\Model;
+use \App\Model;
 
 class AuthCode extends Model
 {
