@@ -2,7 +2,7 @@
 
 namespace Laravel\Passport;
 
-use Illuminate\Database\Eloquent\Model;
+use App\Model as Model;
 
 class RefreshToken extends Model
 {
